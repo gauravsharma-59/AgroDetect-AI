@@ -1,0 +1,5 @@
+{
+  "name": "AgroDetect AI",
+  "description": "Intelligent agriculture solution for real-time crop disease detection using AI-powered image analysis.",
+  "requestFramePermissions": ["camera"]
+}
